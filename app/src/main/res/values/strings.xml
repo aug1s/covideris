@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">augistest</string>
+    <string name="total">Iš viso</string>
+    <string name="date">Data</string>
+    <string name="totalconfirmed">Patvirtintų</string>
+    <string name="totalrecovered">Pasveikusių</string>
+    <string name="totaldeath">Mirtys</string>
+    <string name="_0">0</string>
+    <string name="recovered">Pasveikusių: </string>
+    <string name="death">Mirtys: </string>
+    <string name="last_updated">Atnaujinta: </string>
+    <string name="state_name">Pavadinimas</string>
+    <string name="active">Aktyvus: </string>
+    <string name="viewmore">Daugiau</string>
+    <string name="total_confirmed">Pasveikusių: </string>
+    <string name="heading">Covid 19 įvykiai</string>
+</resources>
